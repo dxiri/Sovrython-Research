@@ -64,7 +64,7 @@ _Investment grade bond rates. Taken from Schwab's BondSource_
 
   
 
-![](/Users/dxirinac/Documents/Sovrython draft files/image (1).png)
+![](images/bondsource.png)
 
   
 
@@ -116,7 +116,7 @@ _Litecoin ownership by time held, June 2020 to June 2021_
 
   
 
-![](/Users/dxirinac/Documents/Sovrython draft files/image (2).png)
+![](images/LTC_ownership.png)
 
   
 
@@ -132,7 +132,7 @@ _Bitcoin ownership by time held. June 2020 to June 2021_
 
   
 
-![](/Users/dxirinac/Documents/Sovrython draft files/image (3).png)
+![](images/BTC_ownership.png)
 
   
 
@@ -241,7 +241,7 @@ _LTC liquidity locked in pTokens project_
 
   
 
-![](/Users/dxirinac/Documents/Sovrython draft files/image.png)
+![](images/ptokens_LTC.png)
 
 This is about 6121 coins at today's prices or 0.0072% of the total LTC supply.  However, Binance Chain is on a completely different level \[16\]. Binance's Total Litecoin-PEG supply stands at 595,000 LTC at the time of writing, this accounts for about 0.71% of the total LTC supply.
 
@@ -294,7 +294,7 @@ _Correlation factor between precious metals and Bitcoin_
 
   
 
-![](/Users/dxirinac/Documents/Sovrython draft files/image (4).png)
+![](images/gold-btc_correlation.png)
 
 A negative correlation factor means gold moves in the opposite direction to Bitcoin, while a positive correlation factor would mean gold moves in the same direction as Bitcoin. Zero means no correlation between the assets.
 
@@ -310,7 +310,7 @@ _Correlation factor between energy commodities and Bitcoin_
 
   
 
-![](/Users/dxirinac/Documents/Sovrython draft files/image (5).png)
+![](images/oil-btc_correlation.png)
 
   
 
