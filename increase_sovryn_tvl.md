@@ -1,55 +1,27 @@
-Increasing TVL in Sovryn:
-
-Potential candidates and future developments
+Increasing TVL in Sovryn: Potential candidates and future developments
 ===============
 
-  
 
-Diego Xirinachs
+## Author: Diego Xirinachs ##
 
-  
+1. [What is TVL and why is it important in DeFi?](#What-is-TVL-and-why-is-it-important-in-DeFi)  
+1. [How is TVL measured?](#How-is-TVL-measured)
+1. [What motivates people to lock their assets into a protocol?](#What-motivates-people-to-lock-their-assets-into-a-protocol)
+1. [Which crypto assets are good candidates to increase TVL?](#Which-crypto-assets-are-good-candidates-to-increase-TVL)
+   1. [Stablecoins](#stablecoin-candidates)
+   1. [Litecoin](#litecoin-candidate)
+1. [How much can TVL increase?](#How-much-can-TVL-increase)
+   1. [Stablecoins](#stablecoins-increase)
+   1. [Litecoin](#litecoin-increase) 
+1. [Potential future developments?](#Potential-future-developments)
+   1. [Stacks](#Stacks)
+   1. [Synthetic commodities](#Synthetics)
+   1. [Non-USD stablecoins](#Non-USD)
+1. [Conclusion](#Conclusion)
+ 
+<div id="What-is-TVL-and-why-is-it-important-in-DeFi"></div>
 
-  
-
-1.  What is TVL and why is it important in DeFi?
-    
-2.  How is TVL measured?
-    
-3.  What motivates people to lock their assets into a protocol?
-    
-4.  Which crypto assets are good candidates to increase TVL?
-    
-
-1.  Stablecoins
-    
-2.  Litecoin
-    
-
-6.  How much can TVL increase?
-    
-
-1.  Stablecoins
-    
-2.  Litecoin
-    
-
-8.  Potential future developments?
-    
-
-1.  Stacks
-    
-2.  Synthetic commodities
-    
-3.  Non-USD stablecoins
-    
-
-10.  Conclusion
-    
-
-  
-
-**What is TVL and why is it important in DeFi?**
-
+## What is TVL and why is it important in DeFi? ##
   
 
 Total Value Locked (TVL) refers to the sum of all crypto assets provided to a smart contract so it can be used, for example, to borrow against it so you don't have to sell your crypto asset but can still benefit from its value. TVL is commonly used in DeFi projects to measure success.
@@ -62,9 +34,9 @@ Since Ethereum is the current blockchain with the most DeFi apps today, multiple
 
 These two factors combined make TVL a standard in today's DeFi world. TVL is also useful to see the increase in adoption and capital inflows over time.
 
-  
+<div id="How-is-TVL-measured"></div>
 
-**How is TVL measured?**
+## How is TVL measured? ##
 
   
 
@@ -72,9 +44,9 @@ As mentioned before, this is simple to calculate. All that is needed is to sum t
 
 However, there is some recent controversy if the governance tokens for the DeFi protocol itself should be counted or not \[2\]. For this paper, we will take $58 million as the reference TVL for Sovryn.
 
-  
+<div id="What-motivates-people-to-lock-their-assets-into-a-protocol"></div>
 
-**What motivates people to lock their assets into a protocol?**
+## What motivates people to lock their assets into a protocol? ##
 
   
 
@@ -100,15 +72,17 @@ Locking up your capital for 30 years into these securities right now yields 3.86
 
 These conditions cause investors to look for alternative investments with higher yields even if it means taking on more risk. This is a long-term tailwind for DeFi, in particular for stablecoins. As DeFi matures, more investors will leave low-yielding traditional bonds in favor of higher-yielding alternatives.
 
-  
+<div id="Which-crypto-assets-are-good-candidates-to-increase-TVL"></div>  
 
-**Which crypto assets are good candidates to increase TVL?**
+## Which crypto assets are good candidates to increase TVL? ##
 
 The more people can do with their crypto assets, the more value they can unlock from it.
 
 Based on this, the following are good candidates to increase Sovryn's TVL and attract new users to the platform.
 
-**Stablecoins**
+<div id="stablecoin-candidates"></div>
+
+### Stablecoins ###
 
 This effort is already underway in the form of XUSD, which acts as an aggregator of stablecoins allowing a single representation of the US dollar on Sovryn \[7\].
 
@@ -125,9 +99,10 @@ Based on ease of implementation and impact, what follows is the suggested order 
 
 We will go into detail in the next section.
 
+<div id="litecoin-candidate"></div>
   
 
-**Litecoin**
+### Litecoin ###
 
 Litecoin is an under-appreciated asset, with a long history, strong correlation to Bitcoin, and healthy trading volume across a lot of exchanges. Furthermore, Litecoin holders have similar behavior to Bitcoin holders. For example, the following chart depicts the ownership by time held, or said another way, long term vs short term holders:
 
@@ -178,13 +153,13 @@ When it comes to bringing Litecoin into the DeFi world, Sovryn has certain advan
 
 Finally, LTC has a high trading volume. LTC/BTC is one of the most actively traded pairs in crypto. Capturing any percentage of this trading action will increase the fees earned by the protocol.
 
-  
+<div id="How-much-can-TVL-increase"></div>
 
-**How much can TVL increase?**
+## How much can TVL increase? ##
 
-  
+<div id="stablecoins-increase"></div>  
 
-**Stablecoins**
+### Stablecoins ###
 
 Now, given the implementation of both ideas, how much can TVL increase? To answer this question, we need to look at the market cap of the newly added assets and estimate how much market share we can grab. To do this, we can look at other popular DeFi projects market share with similar implementations and then take an average to arrive at a percentage of the total supply we can capture over the long term.
 
@@ -248,9 +223,9 @@ Bear case: TVL will increase by $38.5 million.
 
 Bull case: TVL will increase by $115.5 million.
 
-  
+<div id="litecoin-increase"></div>  
 
-**Litecoin**
+### Litecoin ###
 
   
 
@@ -290,21 +265,22 @@ Bull case: TVL will increase by $188.26 million.
 
 As you can see, even with a bear case scenario getting 50% less of the average market share Sovryn's current TVL could more than double.
 
-  
+<div id="Potential-future-developments"></div>
 
-**Potential future developments?**
+## Potential future developments? ##
 
-  
+<div id="Stacks"></div>  
 
-**Stacks**
+### Stacks ###
 
 Stacks \[17\], like RSK, is a project built on top of Bitcoin. Collaboration between these two projects could be explored further to bring the STX token to Sovryn. The main selling point of the Stacks Blockchain is Stacking, where you lock your STX in a pool and receive yield in Bitcoin as payment. A bridge could be implemented, locking and stacking the STX on one side of the bridge to generate bitcoin yield, and minting rSTX on the RSK side to participate in the DeFi economy. rSTX then becomes a yield generating asset, enabling Sovryn to charge a small fee for managing the stacking and generate another revenue stream for the protocol.
 
 Both STX and RSK support smart contracts, although Stacks uses a custom, Turing-incomplete language called Clarity, such a bridge is technically possible and will unlock value in a way that hasn't been done on any other project.
 
   
+<div id="Synthetics"></div>  
 
-**Synthetic Commodities**
+### Synthetic Commodities ###
 
 A synthetic asset is something that derives its value from something else. Tokenizing assets on the blockchain brings a huge array of possibilities and will enable Sovryn users to trade "anything to anything". This is an integral building block for the full stack financial operating system Sovryn strives to be. As a start, oil and precious metals will make great additions to the Sovryn ecosystem. This will allow users to hedge their positions or speculate on real-world asset prices. As an example, while Bitcoin is considered "digital gold" the correlation between gold and Bitcoin is negative (currently -0.39):
 
@@ -340,19 +316,21 @@ _Correlation factor between energy commodities and Bitcoin_
 
 Sovryn users can take advantage of these correlations to hedge their positions and unlock more value from their crypto assets.
 
-  
+<div id="Non-USD"></div>    
 
-**Non-USD Stablecoins**
+### Non-USD Stablecoins ###
 
   
 
 Non-USD stablecoins could also bring significant value to the Sovryn ecosystem. A Euro aggregator will appeal to a different user base. Once multiple stablecoins are available in Sovryn, FX (Foreign Exchange) features can be built on top of it, adding another revenue driver for the protocol and increasing trading volume. Moreover, Sovryn itself can become an issuer of stablecoins which niche products. After the US Dollar and the Euro, the Japanese Yen (JPY) and the Great British Pound (GBP) will be good additions because of the worldwide use of these currencies \[18\].
 
-**Conclusion**
+<div id="Conclusion"></div>  
+
+## Conclusion ##
 
 This paper has explored ways to increase the total value locked (TVL) in the Sovryn ecosystem in the near future. While there may be multiple other ways to do this, what has been exposed here provides a good effort/reward ratio, since some of the building blocks to achieve this are already in place. In the end, the market itself will determine how valuable these additions will be. It is my hope the research presented in this paper serves as a starting point to further increase Sovryn's contribution to the DeFi ecosystem and society in general.
 
-Sources
+## Sources ##
 
 \[1\] [https://github.com/ConcourseOpen/DeFi-Pulse-Adapters](https://github.com/ConcourseOpen/DeFi-Pulse-Adapters)
 
