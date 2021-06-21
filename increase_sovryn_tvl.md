@@ -183,11 +183,11 @@ Total: 102 308 922.79 TUSD represents 7.308% of the Total TUSD Supply, 2.436% on
 
 Based on this average, let us generate three possible scenarios. A base case, taking the average of the protocols. A bear case, taking 50% below the average, and a bull case, corresponding to 50% above the average.
 
-Base case: 2.436% of total supply, TVL would increase by $34 million.
+* Base case: 2.436% of total supply, TVL would increase by $34 million.
 
-Bear case: 1.218% of total supply, TVL would increase by $17 million.
+* Bear case: 1.218% of total supply, TVL would increase by $17 million.
 
-Bull case: 3.654% of total supply, TVL would increase by $51 million.
+* Bull case: 3.654% of total supply, TVL would increase by $51 million.
 
 Paxos Standard (PAX) and Huobi USD (HUSD) have a $1.4B market cap combined, of which $793,376,097 are for PAX and $671,642,381 for HUSD.
 
@@ -197,11 +197,11 @@ As for HUSD, there doesn't seem to be any DeFi platform with it listed. This is 
 
 Using the same methodology we used for TUSD, here are our scenarios:
 
-Base case: 0.4368% of total supply, TVL would increase by $6 million.
+* Base case: 0.4368% of total supply, TVL would increase by $6 million.
 
-Bear case: 0.2184% of total supply, TVL would increase by $3 million.
+* Bear case: 0.2184% of total supply, TVL would increase by $3 million.
 
-Bull case: 0.6552% of total supply, TVL would increase by $9 million.
+* Bull case: 0.6552% of total supply, TVL would increase by $9 million.
 
 TerraUSD (UST) has a $1.9B market cap. UST is heavily used in the Binance Smart Chain (BSC) ecosystem, however, as mentioned before, this cannot be considered DeFi. To calculate market share, however, it is useful to see how much UST is on BSC now. Mirror Finance is a Terra-based project that wraps UST on the BSC \[14\].
 
@@ -209,19 +209,19 @@ Looking at the token issuance there are close to $37 million of UST in circulati
 
 Applying our methodology to UST we have:
 
-Base case: 1.947% of total supply, TVL will increase by $37 million.
+* Base case: 1.947% of total supply, TVL will increase by $37 million.
 
-Bear case: 0.9735% of total supply, TVL will increase by $18.5 million.
+* Bear case: 0.9735% of total supply, TVL will increase by $18.5 million.
 
-Bull case: 2.9205% of total supply, TVL will increase by $55.5 million.
+* Bull case: 2.9205% of total supply, TVL will increase by $55.5 million.
 
 Now, let's sum our scenarios for our stablecoins to get a total:
 
-Base case: TVL will increase by $77 million.
+* Base case: TVL will increase by $77 million.
 
-Bear case: TVL will increase by $38.5 million.
+* Bear case: TVL will increase by $38.5 million.
 
-Bull case: TVL will increase by $115.5 million.
+* Bull case: TVL will increase by $115.5 million.
 
 <div id="litecoin-increase"></div>  
 
@@ -245,23 +245,23 @@ _LTC liquidity locked in pTokens project_
 
 This is about 6121 coins at today's prices or 0.0072% of the total LTC supply.  However, Binance Chain is on a completely different level \[16\]. Binance's Total Litecoin-PEG supply stands at 595,000 LTC at the time of writing, this accounts for about 0.71% of the total LTC supply.
 
-Having these 2 points of comparison and taking the midpoint (the same way we did with the stablecoins estimations), if we could bring about 0.35% of the total LTC supply over to the Sovryn ecosystem, that would be 294 000 LTC (about $48.51 million at today's prices, $165 reference price for LTC). This is highly possible given the competitive advantages Sovryn has on this front as mentioned earlier in section 4.2.
+Having these 2 points of comparison and taking the midpoint (the same way we did with the stablecoins estimations), if we could bring about 0.35% of the total LTC supply over to the Sovryn ecosystem, that would be 294 000 LTC (about $48.51 million at today's prices, $165 reference price for LTC). This is highly possible given the competitive advantages Sovryn has on this front as mentioned earlier in section 4.ii.
 
-Base case: 0.35% of the Total LTC supply, TVL will increase by $48.51 million
+* Base case: 0.35% of the Total LTC supply, TVL will increase by $48.51 million
 
-Bear case: 0.175% of the Total LTC supply, TVL will increase by $24.25 million
+* Bear case: 0.175% of the Total LTC supply, TVL will increase by $24.25 million
 
-Bull case: 0.7% of the total LTC supply, TVL will increase by $72.76 million.
+* Bull case: 0.7% of the total LTC supply, TVL will increase by $72.76 million.
 
 Combining both the stablecoins and LTC we have:
 
   
 
-Base case: TVL will increase by $125.51 million.
+* Base case: TVL will increase by $125.51 million.
 
-Bear case: TVL will increase by $62.75 million.
+* Bear case: TVL will increase by $62.75 million.
 
-Bull case: TVL will increase by $188.26 million.
+* Bull case: TVL will increase by $188.26 million.
 
 As you can see, even with a bear case scenario getting 50% less of the average market share Sovryn's current TVL could more than double.
 
